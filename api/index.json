@@ -1,0 +1,3367 @@
+{
+    "component": "Chapter",
+    "id": "618151f7567e250015137570",
+    "content": [
+        {
+            "component": "ChapterCover",
+            "id": "618151fb265cc6ff2ce91b91"
+        },
+        {
+            "component": "Title",
+            "id": "618151fb6c5fea7cbd163f05",
+            "properties": {
+                "number": "6"
+            },
+            "content": "A Rainy Day"
+        },
+        {
+            "component": "LearningFocus",
+            "id": "618151fb34170e34c8e0d07f",
+            "properties": {},
+            "content": [
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbf840bcdfdd8d5718",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbc15e4ea72d7b9ba9",
+                            "content": "In this lesson, I will:"
+                        }
+                    ]
+                },
+                {
+                    "component": "LI",
+                    "id": "618151fb417b9a1c4d86e598",
+                    "content": "predict what might happen in the story"
+                },
+                {
+                    "component": "LI",
+                    "id": "618151fb9d9db4e2755a96aa",
+                    "content": "name characters in a story"
+                },
+                {
+                    "component": "LI",
+                    "id": "618151fb3aca67caa4973cbe",
+                    "content": "indicate how I feel in particular situations"
+                },
+                {
+                    "component": "LI",
+                    "id": "618151fb0e84687074868e7b",
+                    "content": "list words in their plural form"
+                },
+                {
+                    "component": "LI",
+                    "id": "618151fb24cbe721164d46fc",
+                    "content": "indicate what I like and don’t like"
+                },
+                {
+                    "component": "LI",
+                    "id": "618151fb4a11e70ac38793ac",
+                    "content": "describe a picture in a few sentences"
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fbf57c734ac11c1855",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fb00248457779c1e7a",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Warm Up"
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb11bd795bcaa32ad2",
+                    "properties": {
+                        "icon": "lets-watch"
+                    },
+                    "content": "Let’s Watch"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb0e53d0d9218018c9",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbaa6b737765005bbd",
+                            "content": "Let’s watch a fun video about the weather and seasons."
+                        }
+                    ]
+                },
+                {
+                    "component": "Video",
+                    "id": "618151fb2c4fca3618f5c949",
+                    "asset_id": "618151fb44b248ac7670472e",
+                    "properties": {
+                        "titleIndex": "",
+                        "poster": "assets/images/cbse_01_04_the_weather_and_the_different_seasons.png",
+                        "path": "assets/videos/cbse_01_04_the_weather_and_the_different_seasons.mp4",
+                        "format": "video/mp4",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fba6d7845b4b2c2ac6",
+                    "properties": {
+                        "icon": "lets-predict"
+                    },
+                    "content": "Let’s Predict"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb81d870882ea21be1",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbe4efd6ad9032ef77",
+                            "content": "Look at the picture of Mimi from the story below. Try to guess what happens in the story."
+                        }
+                    ]
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fb20cb6bb892a49140",
+                    "asset_id": "618151fbc5bee01fe541b798",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_1.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb0c9951cbf7d7a90d",
+                    "content": "What will Mimi do today?"
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fb55fa754121864f0b",
+                    "properties": {
+                        "type": "1"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb0ad00afa12eabb5e",
+                            "content": "Play in the rain with her friends at school."
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fba44c455cb47fab0e",
+                            "content": "Enjoy a holiday with her family."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbc821f7d23e03ca90",
+                    "properties": {
+                        "height": "30"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb17857e9ef6aaf235",
+                    "properties": {
+                        "icon": "lets-read-words"
+                    },
+                    "content": "Let’s Read and Spell Words"
+                },
+                {
+                    "component": "Box",
+                    "id": "618151fbaea21363335d2193",
+                    "properties": {
+                        "type": "tip",
+                        "borderColor": "#00b5e2",
+                        "backgroundColor": "#ccf0f9"
+                    },
+                    "content": [
+                        {
+                            "component": "Table",
+                            "id": "618151fbf9571e9ea3b063ce",
+                            "properties": {
+                                "type": "plane-table",
+                                "mode": "no-lines",
+                                "tableTitle": ""
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fb82a8e3666abb0975",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbe4e602ac6b82739c",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb8649dc5c403b410c",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fbfb0d7dda5db8b23c",
+                                                            "asset_id": "618151fb2f623497c42bf698",
+                                                            "properties": {
+                                                                "title": "morning",
+                                                                "audio": "assets/audios/morning.mp3",
+                                                                "audioTitle": "morning"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb526c049d944b8aae",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb9fb7c5082cac391c",
+                                                            "asset_id": "618151fb3eaa65daab5e4493",
+                                                            "properties": {
+                                                                "title": "wake up",
+                                                                "audio": "assets/audios/wake up.mp3",
+                                                                "audioTitle": "wake up"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbc354674be06b085b",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb02b7c8a915e11722",
+                                                            "asset_id": "618151fb4d6f3ccd06463268",
+                                                            "properties": {
+                                                                "title": "window",
+                                                                "audio": "assets/audios/window.mp3",
+                                                                "audioTitle": "window"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbdd8194427b291223",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb6a22cbbd92d8caa6",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb78dede2953cd7449",
+                                                            "asset_id": "618151fb73beae57065c457b",
+                                                            "properties": {
+                                                                "title": "raining",
+                                                                "audio": "assets/audios/raining.mp3",
+                                                                "audioTitle": "raining"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb1c177cd541c8a071",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb22e757e22fab10ff",
+                                                            "asset_id": "618151fbdc25762605dc8cac",
+                                                            "properties": {
+                                                                "title": "brush",
+                                                                "audio": "assets/audios/brush.mp3",
+                                                                "audioTitle": "brush"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbae79420d176cee69",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fbffa06567459a28e7",
+                                                            "asset_id": "618151fbaf2c4ec7922ad8b9",
+                                                            "properties": {
+                                                                "title": "umbrella",
+                                                                "audio": "assets/audios/umbrella.mp3",
+                                                                "audioTitle": "umbrella"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbe174f0978e5b5696",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb2810a6b9beb69ca8",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb88a17f7310d4cc59",
+                                                            "asset_id": "618151fb947fd742fd5cbfe5",
+                                                            "properties": {
+                                                                "title": "wash",
+                                                                "audio": "assets/audios/wash.mp3",
+                                                                "audioTitle": "wash"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb76b275e553a5eba6",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb80f01e2d4c4dccdc",
+                                                            "asset_id": "618151fba88e15d0299eab05",
+                                                            "properties": {
+                                                                "title": "uniform",
+                                                                "audio": "assets/audios/uniform.mp3",
+                                                                "audioTitle": "uniform"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbed4fe95376b72659",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fba20465ed21a08a5f",
+                                                            "asset_id": "618151fbce4b1c495903f573",
+                                                            "properties": {
+                                                                "title": "breakfast",
+                                                                "audio": "assets/audios/breakfast.mp3",
+                                                                "audioTitle": "breakfast"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb3814d6cb3707f637",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb9f7815c948299308",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fbd1aae74c150cf089",
+                                                            "asset_id": "618151fbae0d9f0ec9ae168c",
+                                                            "properties": {
+                                                                "title": "holiday",
+                                                                "audio": "assets/audios/holiday.mp3",
+                                                                "audioTitle": "holiday"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbeb49eb7e9138602b",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb7b1c2fee011fff1b",
+                                                            "asset_id": "618151fb101c165723463485",
+                                                            "properties": {
+                                                                "title": "school",
+                                                                "audio": "assets/audios/school.mp3",
+                                                                "audioTitle": "school"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fb309341f67853cc7e",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fbc3e23133342b1c08",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Read and Enjoy"
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb4b5e0dec8774167f",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Video",
+                    "id": "618151fb5b2b4329b07ab566",
+                    "asset_id": "618151fb152896a21e309806",
+                    "properties": {
+                        "titleIndex": "",
+                        "poster": "assets/images/cbse_english_01_03_read_and_enjoy.png",
+                        "path": "assets/videos/cbse_english_01_03_read_and_enjoy.mp4",
+                        "format": "video/mp4",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb5bb4b0228fb99d0d",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb53015aa294079d24",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb1f35ec76e4f35773",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Italic",
+                                    "id": "618151fb517e5029d2046e85",
+                                    "content": "Mimi wakes up to get ready for school. What kind of day is it? Let’s read this story and find out!"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbdbed7f9fe4e252c4",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fba7ae01db4ee4e76b",
+                    "asset_id": "618151fb2a254912684d2240",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_2.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbbfeb0b8270d020fd",
+                    "content": "Mimi jumps out of bed and looks outside."
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbf6a394c57b34bc4a",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Box",
+                    "id": "618151fb3aa8abbb11aa961a",
+                    "properties": {
+                        "icon": "my-home-language",
+                        "type": "tip",
+                        "header": "My Home Language!",
+                        "borderColor": "#1ab7ff",
+                        "backgroundColor": "#e5f7fc"
+                    },
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb76568a0ae4bbfdf5",
+                            "content": "What is the word for “mother” in your home language?"
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb67f35e3893078a03",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fb859f81ded4c39e99",
+                    "asset_id": "618151fb46bf27c67b6d4d07",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_3.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb58cc505ae73e16aa",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Layout",
+                    "id": "618151fb64e9a654826616ae",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "InlineImage",
+                            "id": "618151fbc82803351a5e1794",
+                            "asset_id": "618151fb17f2ee09f4aeb8fd",
+                            "properties": {
+                                "path": "assets/images/eng_cbse_g1_c6_img_4.png",
+                                "width": "70%",
+                                "title": ""
+                            },
+                            "content": ""
+                        },
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb37672074ca1ce513",
+                            "content": "Mimi brushes her teeth."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbcd0f53665d86c797",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Layout",
+                    "id": "618151fb13964823e996a32a",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb608f846259bc6387",
+                            "content": "She washes her face."
+                        },
+                        {
+                            "component": "InlineImage",
+                            "id": "618151fb324688954c7dae32",
+                            "asset_id": "618151fb7257ee4b70867aa9",
+                            "properties": {
+                                "path": "assets/images/eng_cbse_g1_c6_img_5.png",
+                                "width": "70%",
+                                "title": ""
+                            },
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb1a1a9edc72fcece2",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Layout",
+                    "id": "618151fb96a7ea1dce711f1a",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "InlineImage",
+                            "id": "618151fbd6992202ca65a9a8",
+                            "asset_id": "618151fb3ca43af9e3ea3653",
+                            "properties": {
+                                "path": "assets/images/eng_cbse_g1_c6_img_6.png",
+                                "width": "",
+                                "title": ""
+                            },
+                            "content": ""
+                        },
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb61f2880930f1aa09",
+                            "content": "She puts on her school uniform."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbd3830f80d065cddb",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbb3107658ba111d55",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Text",
+                            "content": "Mimi and her family have\n "
+                        },
+                        {
+                            "component": "Keyword",
+                            "id": "618151fb06c925d647a02e7d",
+                            "properties": {
+                                "title": "breakfast",
+                                "explanation": "true"
+                            },
+                            "content": [
+                                {
+                                    "component": "KeywordExplanation",
+                                    "id": "618151fbdc669584e934164a",
+                                    "content": "the meal we eat in the morning"
+                                }
+                            ]
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\ntogether."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb4cd15fdcc525d271",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fbaa03e21d1cc977ed",
+                    "asset_id": "618151fbdc09bf681ec67094",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_7.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb739f5a7bd70d0d2b",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Layout",
+                    "id": "618151fb81d1ada88227e392",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fbebedf1af9b8425f7",
+                            "content": "Mimi’s mother gets a phone call."
+                        },
+                        {
+                            "component": "InlineImage",
+                            "id": "618151fbdb475add6bcc80d1",
+                            "asset_id": "618151fbdfd8081dce25a1c7",
+                            "properties": {
+                                "path": "assets/images/eng_cbse_g1_c6_img_8.png",
+                                "title": ""
+                            },
+                            "content": ""
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb7f42ae185b84ea83",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fb56f9762108d6d895",
+                    "asset_id": "618151fb1da4661bb3d0c92a",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_9.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fba66d9c1ef4bf0dad",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb2a4b4a067de913e6",
+                    "properties": {
+                        "icon": "lets-discuss"
+                    },
+                    "content": "Let’s Discuss"
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fb646d0a9a6988113e",
+                    "asset_id": "618151fb4d3c73927bf66cbc",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_10.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb57188cfedd56801b",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb62d143fd9363d250",
+                            "content": "Work in pairs. Tell your partner how you feel when you have a surprise holiday."
+                        }
+                    ]
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb491a6018386dfcac",
+                    "content": "You may use these words and say:"
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fbbfca814763efcca0",
+                    "asset_id": "618151fbc920b30f7b4dd4cb",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_11.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbdf5a3edad3397eee",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb33e7a9c0058325f9",
+                            "content": "Tell your partner why you feel this way."
+                        }
+                    ]
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb030b6579cc492b48",
+                    "content": "For example:"
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fbb1b78118fcf7b1df",
+                    "asset_id": "618151fbbf23c199716e8b35",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_12.png",
+                        "title": ""
+                    },
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fb89069aacc87cdc88",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fb02284113b7d742cd",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Reading Comprehension"
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb1777d6d142eef9aa",
+                    "properties": {
+                        "icon": "lets-read-and-answer"
+                    },
+                    "content": "Let’s Read and Answer"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb1313b39aec823179",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb115b33f597aca734",
+                            "content": "Fill in the blanks to complete each sentence."
+                        }
+                    ]
+                },
+                {
+                    "component": "Activity",
+                    "id": "618151fb38a362b900da1d3d",
+                    "asset_id": "618151fbf9666608e7442cca",
+                    "properties": {
+                        "title": "activity",
+                        "path": "assets/activity/activity_6_1/index.html"
+                    },
+                    "content": "Have fun with this interactive activity."
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb359a46bcd2d68003",
+                    "properties": {
+                        "icon": "notebook-activity"
+                    },
+                    "content": "Notebook activity"
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fb1ad590fde3005aa8",
+                    "properties": {
+                        "type": "1"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb2f42894cc7359367",
+                            "content": "Who lives with Mimi? Look at the pictures and name each member of her family."
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fbb06db34579bb5427",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Text",
+                                    "content": "What does Mimi do in the morning after she wakes up?\n"
+                                },
+                                {
+                                    "component": "Points",
+                                    "id": "618151fb21f6d3f04e6a0080",
+                                    "properties": {
+                                        "type": "lower-alpha"
+                                    },
+                                    "content": [
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb96739d1f17ef8f2a",
+                                            "content": "reads a book"
+                                        },
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb1ebf7891166f45aa",
+                                            "content": "brushes her teeth"
+                                        },
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb0778e25f5881d99c",
+                                            "content": "plays with her toys"
+                                        },
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb273d7e4257d9ac89",
+                                            "content": "washes her face"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "LetsThink",
+                    "id": "618151fbad33691a5dbeabcc",
+                    "properties": {
+                        "title": "Let’s Think"
+                    },
+                    "content": [
+                        {
+                            "component": "Points",
+                            "id": "618151fb51d28f7759a58f66",
+                            "properties": {
+                                "type": "1"
+                            },
+                            "content": [
+                                {
+                                    "component": "LI",
+                                    "id": "618151fb182e2cbaa1020946",
+                                    "content": "How does Mimi feel when she hears she has a holiday? Which word in the story tells you this?"
+                                },
+                                {
+                                    "component": "LI",
+                                    "id": "618151fb982e569e913a0186",
+                                    "content": "What would you do if you have a surprise holiday? List three things."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb665b196c3120968c",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb53e5d61e9bb8b082",
+                    "properties": {
+                        "icon": "lets-ask-questions"
+                    },
+                    "content": "Let’s Ask Questions"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb3f1e1e44b189c8ee",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbcf4154e03703e3cc",
+                            "content": "Work in groups. Read the story again and look at the pictures. Ask and answer questions about something you want to know about Mimi and Momo."
+                        }
+                    ]
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb5306c084d6b3658d",
+                    "content": "For example:"
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fb5f8d11dbf2a6240e",
+                    "properties": {
+                        "type": "upper-alpha"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb0299e2561775b2e9",
+                            "content": "Does Momo also go to school with Mimi?"
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fb61ae28841ffe375c",
+                            "content": "No he doesn’t."
+                        }
+                    ]
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fbdd433138b29acd74",
+                    "properties": {
+                        "type": "upper-alpha"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb8cf4d3dca7a987fa",
+                            "content": "How do you know that?"
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fbab3f6ca34e6743b5",
+                            "content": "He is not wearing a school uniform."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb469e7c94c61b6f5e",
+                    "properties": {
+                        "height": "16"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "EndoFSectionQuiz",
+                    "id": "618151fbdd9ea4f71a4f6902",
+                    "asset_id": "618151fbc3b8479d437031ce",
+                    "properties": {
+                        "path": "assets/quiz/s1/index.html",
+                        "title": "End of Section Quiz"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "LetsReflect",
+                    "id": "618151fb39b0da1d35f9d7fb",
+                    "properties": {
+                        "title": "Let’s Reflect"
+                    },
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb04be8a81a5e819d6",
+                            "content": "After completing this section, I can:"
+                        },
+                        {
+                            "component": "Table",
+                            "id": "618151fb9d2c1833663a0b4b",
+                            "properties": {
+                                "type": "Type-2",
+                                "tableTitle": ""
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fbe46451935480fa8c",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb6312a67032b5b73d",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbc85df8c0c4f93d7d",
+                                                    "content": ""
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb5a5a803ea4bcf7ac",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb393f6659098d620b",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fbfac8274e24834d07",
+                                                                    "asset_id": "618151fb1042d00554f673f5",
+                                                                    "properties": {
+                                                                        "path": "emoji1.png",
+                                                                        "width": "25%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb7143f7aa2dac1a62",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb449246d8af755615",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fbbb3ef1ad66247f0d",
+                                                                    "asset_id": "618151fbe58db5b09569f744",
+                                                                    "properties": {
+                                                                        "path": "emoji2.png",
+                                                                        "width": "25%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb28e8611fee0c97e2",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbb12f067b19a42384",
+                                                    "content": "recall and repeat facts from the story."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbef7dbfe07136582d",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbf4f37766d15fd466",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbd1e9dacc8afcee1d",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbbf498e1a2776aa49",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb97b4643ce3031343",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb71900eadc87f0168",
+                                                    "content": "study a picture and answer a question about it."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbcca11636f5ce793b",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fba465c11657faa91d",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb37ef307372d59e3a",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbb171d6d5b07f92e8",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbce8869e6e591bb8a",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb729cd669b3206806",
+                                                    "content": "identify characters in a picture."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbb82544af25b38088",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb32a102e00d6a156d",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb7a1bede56686698e",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fba566fbdd933b0697",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb612ecae2b87728be",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbb28d577cf71c1b0c",
+                                                    "content": "ask and answer questions."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb0d7af2715c6bdc5d",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb355aa5e581d1fcf5",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb9316d3435ea11ceb",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb1d49fb90bd63d20b",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fb7d60470d6ad5ea96",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fb6fa8095d606b99b8",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Learn New Words"
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbc483704cab89907f",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "ContentHeading",
+                    "id": "618151fb7d5a0a34f82902b8",
+                    "content": "Weather words"
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb7d9780400c119a8b",
+                    "properties": {
+                        "icon": "lets-learn"
+                    },
+                    "content": "Let’s Learn"
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb1f7774af65ba3983",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb28f00c519c381c96",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb2e882eb6562bae91",
+                            "content": "Look at these words. Listen to  each one and repeat it."
+                        }
+                    ]
+                },
+                {
+                    "component": "Box",
+                    "id": "618151fbc0743eb0440a62ce",
+                    "properties": {
+                        "type": "tip",
+                        "borderColor": "#00b5e2",
+                        "backgroundColor": "#ccf0f9"
+                    },
+                    "content": [
+                        {
+                            "component": "Table",
+                            "id": "618151fb21594ae2853d3e45",
+                            "properties": {
+                                "type": "plane-table",
+                                "mode": "no-lines"
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fb6e6fbbfd838899fc",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbe53a34db72656afd",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb54c6bd5258b3efa1",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb9e40b9b2bc6a87f4",
+                                                            "asset_id": "618151fb65ca43f97882d91c",
+                                                            "properties": {
+                                                                "title": "stormy",
+                                                                "audio": "assets/audios/stormy.mp3",
+                                                                "audioTitle": "stormy"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb671fb23a73738755",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb32ea3d1008131dfb",
+                                                            "asset_id": "618151fb1e910e6638c22485",
+                                                            "properties": {
+                                                                "title": "sunny",
+                                                                "audio": "assets/audios/sunny.mp3",
+                                                                "audioTitle": "sunny"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb836b96204ff7bdb8",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fb749dfca53e79732b",
+                                                            "asset_id": "618151fb1a6b30862b6979b7",
+                                                            "properties": {
+                                                                "title": "foggy",
+                                                                "audio": "assets/audios/foggy.mp3",
+                                                                "audioTitle": "foggy"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb7da7b1db32f43808",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb035406a34b27cbfc",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fbe025970ee2524655",
+                                                            "asset_id": "618151fb651bad9b2df32d1f",
+                                                            "properties": {
+                                                                "title": "windy",
+                                                                "audio": "assets/audios/windy.mp3",
+                                                                "audioTitle": "windy"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbc71d7a73344a683f",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Pronunciation",
+                                                            "id": "618151fbfd1aad8bb7caae92",
+                                                            "asset_id": "618151fbafaf3717ad2eb485",
+                                                            "properties": {
+                                                                "title": "cloudy",
+                                                                "audio": "assets/audios/cloudy.mp3",
+                                                                "audioTitle": "cloudy"
+                                                            },
+                                                            "content": ""
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb672794d76a3b4d0a",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fbc90465c283923f51",
+                    "properties": {
+                        "icon": "lets-practice"
+                    },
+                    "content": "Let’s Practise"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbb10ec90368c59a99",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb49489ba957c07576",
+                            "content": "Match the pictures to the correct weather words."
+                        }
+                    ]
+                },
+                {
+                    "component": "Activity",
+                    "id": "618151fb06df678d6be5c1ca",
+                    "asset_id": "618151fbdd4085ad131b5983",
+                    "properties": {
+                        "title": "Activity",
+                        "path": "assets/activity/activity_6_2/index.html"
+                    },
+                    "content": "Have fun with this interactive activity."
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbc3f0ba3607256d00",
+                    "properties": {
+                        "height": "16"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "EndoFSectionQuiz",
+                    "id": "618151fb4f0895a0042e1f64",
+                    "asset_id": "618151fbcc91255c51717f76",
+                    "properties": {
+                        "path": "assets/quiz/s2/index.html",
+                        "title": "End of Section Quiz"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "LetsReflect",
+                    "id": "618151fb85f0e5a6be20fdbe",
+                    "properties": {
+                        "title": "Let’s Reflect"
+                    },
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb0cdbfc64523a37e3",
+                            "content": "After completing this section, I can:"
+                        },
+                        {
+                            "component": "Table",
+                            "id": "618151fbad35072993071771",
+                            "properties": {
+                                "type": "Type-2",
+                                "tableTitle": ""
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fbf400d72065b2783d",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb61217764c47d399d",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbe845ffc2219fa1a9",
+                                                    "content": ""
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbb458a4b91fb595ff",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb05476db83ad91ea2",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fbbc80318a21d5067b",
+                                                                    "asset_id": "618151fb2ef648b228667d1f",
+                                                                    "properties": {
+                                                                        "path": "emoji1.png",
+                                                                        "width": "35%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb44aea764efaa82dc",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb124cfbfe732531bc",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fbc7f748990980bc71",
+                                                                    "asset_id": "618151fb3da12392549d489f",
+                                                                    "properties": {
+                                                                        "path": "emoji2.png",
+                                                                        "width": "35%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb8c9d1d9d09dae52e",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbe3f4c7d352cff4e4",
+                                                    "content": "read a word, listen to how it is pronounced and repeat it."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb48b520b5e596e455",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb20e0195c3aa469af",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb3b120b20241b5cf0",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbdeca265651f89b99",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb3b40b42368a4bb75",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb7a873305a458d362",
+                                                    "content": "Identify words related to the weather."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb05cd5d1c2f01eb78",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb3548fd3e478a3907",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb4e5d58f8d0c6775f",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb9facb7ae5ed30b92",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fb55f02a74089999b6",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fb18a9be0518eb8e6b",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Learn Grammar"
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbf9344759f24b7785",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "ContentHeading",
+                    "id": "618151fb81ef29de6da3fafd",
+                    "content": "One and Many"
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb68656f07a6fefc60",
+                    "properties": {
+                        "icon": "lets-learn"
+                    },
+                    "content": "Let’s Learn"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb2f0e1ef3c93e5331",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbfd8f35103aceb898",
+                            "content": "Naming words"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\ncan be\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fb63d7122f57f994ae",
+                            "content": "one"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nor\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fbeab82551697dbcd4",
+                            "content": "many"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\n. We add the letter\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fb2d877367680245ae",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Italic",
+                                    "id": "618151fb9bbaa86659c2f296",
+                                    "content": "s"
+                                }
+                            ]
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nto a word to show more than one thing."
+                        }
+                    ]
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb8f7acae02bac6eb3",
+                    "content": "For example:"
+                },
+                {
+                    "component": "Table",
+                    "id": "618151fbc7ce5dbceb8758d8",
+                    "properties": {
+                        "type": "plane-table"
+                    },
+                    "content": [
+                        {
+                            "component": "TableBody",
+                            "id": "618151fbef33baeb997e7108",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "TableRow",
+                                    "id": "618151fb52f723594d5e4270",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "CellValue",
+                                            "id": "618151fb78dd8d586edc0b6b",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "InlineImage",
+                                                    "id": "618151fb406de13412a59752",
+                                                    "asset_id": "618151fbc0b5287cc1ae4080",
+                                                    "properties": {
+                                                        "path": "assets/images/eng_cbse_g1_c6_img_13.png",
+                                                        "width": "90%",
+                                                        "title": ""
+                                                    },
+                                                    "content": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "CellValue",
+                                            "id": "618151fb16ab6326d49c8d4f",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "InlineImage",
+                                                    "id": "618151fb3f8f732d8b7f4198",
+                                                    "asset_id": "618151fb496b3a4c63530eee",
+                                                    "properties": {
+                                                        "path": "assets/images/eng_cbse_g1_c6_img_14.png",
+                                                        "width": "90%",
+                                                        "title": ""
+                                                    },
+                                                    "content": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "component": "TableRow",
+                                    "id": "618151fb5374316d213ecef2",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "CellValue",
+                                            "id": "618151fb6bf73d8c7dd8ddc0",
+                                            "properties": {
+                                                "colSpan": "2"
+                                            },
+                                            "content": [
+                                                {
+                                                    "component": "InlineImage",
+                                                    "id": "618151fbc2c9a3c025f4593b",
+                                                    "asset_id": "618151fb3ec096586b9221ea",
+                                                    "properties": {
+                                                        "path": "assets/images/eng_cbse_g1_c6_img_15.png",
+                                                        "width": "50%",
+                                                        "title": ""
+                                                    },
+                                                    "content": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fbb0eb1e1fdbbc91bf",
+                    "properties": {
+                        "icon": "lets-watch"
+                    },
+                    "content": "Let’s Watch"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb2cf9a5b4ec3c7603",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb3e5a8668b54a023a",
+                            "content": "Let’s watch a fun video about one and many."
+                        }
+                    ]
+                },
+                {
+                    "component": "Video",
+                    "id": "618151fbbc3a8cf53985c7f1",
+                    "asset_id": "618151fbc61322dbfa99d8a4",
+                    "properties": {
+                        "titleIndex": "",
+                        "poster": "assets/images/cbse_01_04_grammar_concept.png",
+                        "path": "assets/videos/cbse_01_04_grammar_concept.mp4",
+                        "format": "video/mp4",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb7cd4255d4ef49d56",
+                    "properties": {
+                        "icon": "lets-practice"
+                    },
+                    "content": "Let’s Practise"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbf204f0685b72386a",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbcf18c2376bb101ad",
+                            "content": "Look at each picture and click the correct word."
+                        }
+                    ]
+                },
+                {
+                    "component": "Activity",
+                    "id": "618151fbe573e60719e29db1",
+                    "asset_id": "618151fb406e80d34eee0992",
+                    "properties": {
+                        "title": "Activity",
+                        "path": "assets/activity/activity_6_3/index.html"
+                    },
+                    "content": "Have fun with this interactive activity."
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb0501401ea721df7d",
+                    "properties": {
+                        "icon": "lets-try"
+                    },
+                    "content": "Let’s Try"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbeb51c0439cd9d456",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb72f30209fc911dc7",
+                            "content": "Work in pairs. Look around the room you are in. In your notebook, write the names of three things that are more than one."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb7e55c9d46efcda13",
+                    "properties": {
+                        "height": "16"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "EndoFSectionQuiz",
+                    "id": "618151fbafab26897df6bab6",
+                    "asset_id": "618151fb169a81c531716ebb",
+                    "properties": {
+                        "path": "assets/quiz/s3/index.html",
+                        "title": "End of Section Quiz"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "LetsReflect",
+                    "id": "618151fbd24f9c969155d697",
+                    "properties": {
+                        "title": "Let’s Reflect"
+                    },
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb399ceee0cafad10a",
+                            "content": "After completing this section, I can:"
+                        },
+                        {
+                            "component": "Table",
+                            "id": "618151fb093dd20914c15909",
+                            "properties": {
+                                "type": "Type-2",
+                                "tableTitle": ""
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fbba314e1ac17ad2d9",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbd0a3c2040ce37631",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb6488b29f595f8363",
+                                                    "content": ""
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbe946c87f13119794",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbc2ccb6d277e61790",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fb9319399f1244232e",
+                                                                    "asset_id": "618151fb9fc702a790384e96",
+                                                                    "properties": {
+                                                                        "path": "emoji1.png",
+                                                                        "width": "35%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb9088b4c9b2fea891",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb0311dfce9c5203b0",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fbecf876fa566d812b",
+                                                                    "asset_id": "618151fb83f488c45a5ff122",
+                                                                    "properties": {
+                                                                        "path": "emoji2.png",
+                                                                        "width": "35%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbf51c2a9589b8f81e",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbf2af4ebaefdcdeb5",
+                                                    "content": "look at pictures of things and identify whether they are one or many."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb52523eb701854b5a",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb4f88aff643216be3",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbbd2f09cc8c76a109",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb976f79f9e7a20564",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbe1c9705f7896ec60",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb482d5b9fbe214856",
+                                                    "content": "add an s to a naming word to change it from one to many."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbc63b34c259622b9c",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb4f0aefaf8c386587",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb47b58a54206bdcf5",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb6e385bfa68c02a80",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fb4b6c61b21dfa5543",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fb1cf734edf3263452",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Writing Skills"
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbf1ae99c2bc020c7e",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "ContentHeading",
+                    "id": "618151fbda0d65133b39c749",
+                    "content": "Describing a Picture"
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb577d1d0a4e070650",
+                    "properties": {
+                        "icon": "lets-learn"
+                    },
+                    "content": "Let’s Learn"
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb19f6343050558ba4",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbc91e15396a064b68",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Text",
+                            "content": "When we look at a picture, we see many naming words. In this picture, we see\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fbd653e81333765f19",
+                            "content": "Momo"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nand\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fb4aadbf572a35a9d5",
+                            "content": "Mimi"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nplay in the\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fbcf2fda43f69ed388",
+                            "content": "garden"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nwith\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fb2b0bc000bb6d7309",
+                            "content": "Grandma"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nand\n"
+                        },
+                        {
+                            "component": "Strong",
+                            "id": "618151fb42b3132625c533a6",
+                            "content": "Kulfi."
+                        }
+                    ]
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fb66106bf51fea2c41",
+                    "asset_id": "618151fbaf770e6e0b0b6ccf",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_16.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbb9b8d00951fa4642",
+                    "content": "To describe this picture, we write:"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb11765af235459bc5",
+                    "content": "The sun is in the sky. Mimi and Momo play in the garden. Grandma and Kulfi play with them. They play with a ball."
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbcd07223c133d526d",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb39135dffe327929c",
+                    "properties": {
+                        "icon": "lets-practice"
+                    },
+                    "content": "Let’s Practise"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbc905935409b322a7",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbf7d9e2adedb904ad",
+                            "content": "Look at this picture. In your notebook, complete these sentences to describe what you see in the picture."
+                        }
+                    ]
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fb438342d2f4aa9676",
+                    "asset_id": "618151fb591cbf99daa63977",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_17.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb1bb23ed0803b2c05",
+                    "content": "You may use these words:"
+                },
+                {
+                    "component": "Box",
+                    "id": "618151fb80a2f497fa820f81",
+                    "properties": {
+                        "type": "tip",
+                        "borderColor": "#00b5e2",
+                        "backgroundColor": "#ccf0f9"
+                    },
+                    "content": [
+                        {
+                            "component": "Table",
+                            "id": "618151fb3f23c21a005260b0",
+                            "properties": {
+                                "type": "plane-table",
+                                "mode": "no-lines"
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fb395a8241f787c40b",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb0da936d065d75ecb",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb9fb87c74168552aa",
+                                                    "properties": {
+                                                        "align": "center"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "component": "Paragraph",
+                                                            "id": "618151fb51af0c45159fcd53",
+                                                            "content": "boy"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb964b6efb1c80811e",
+                                                    "properties": {
+                                                        "align": "center"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "component": "Paragraph",
+                                                            "id": "618151fb9eeb2cc9600738f9",
+                                                            "content": "snow"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb617c91c2f7437f48",
+                                                    "properties": {
+                                                        "align": "center"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "component": "Paragraph",
+                                                            "id": "618151fbb5a08e08ee64b2b1",
+                                                            "content": "gloves"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb002833acf9132dd3",
+                                                    "properties": {
+                                                        "align": "center"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "component": "Paragraph",
+                                                            "id": "618151fb82298488bd030d5e",
+                                                            "content": "girl"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbe43b8eedc0dad13f",
+                                                    "properties": {
+                                                        "align": "center"
+                                                    },
+                                                    "content": [
+                                                        {
+                                                            "component": "Paragraph",
+                                                            "id": "618151fb04e18cb04477e086",
+                                                            "content": "jackets"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb50c337062858780b",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbbf3a68d365b42793",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Text",
+                            "content": "A\n"
+                        },
+                        {
+                            "component": "MathMl",
+                            "id": "618151fbca8b3fe0e1b1b5c2",
+                            "properties": {
+                                "type": "inline",
+                                "fontSize": "22"
+                            },
+                            "content": "$$\\text{__________}$$"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nand a\n"
+                        },
+                        {
+                            "component": "MathMl",
+                            "id": "618151fb1198e1e7bdd28170",
+                            "properties": {
+                                "type": "inline",
+                                "fontSize": "22"
+                            },
+                            "content": "$$\\text{__________}$$"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nare outside. There is\n"
+                        },
+                        {
+                            "component": "MathMl",
+                            "id": "618151fb538be9fdc3d23b3b",
+                            "properties": {
+                                "type": "inline",
+                                "fontSize": "22"
+                            },
+                            "content": "$$\\text{__________}$$"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\neverywhere. It is cold. They are wearing\n"
+                        },
+                        {
+                            "component": "MathMl",
+                            "id": "618151fb0048aaa0ba56e858",
+                            "properties": {
+                                "type": "inline",
+                                "fontSize": "22"
+                            },
+                            "content": "$$\\text{__________}$$"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\nand\n"
+                        },
+                        {
+                            "component": "MathMl",
+                            "id": "618151fbab06c2b229ca9be6",
+                            "properties": {
+                                "type": "inline",
+                                "fontSize": "22"
+                            },
+                            "content": "$$\\text{__________}$$"
+                        },
+                        {
+                            "component": "Text",
+                            "content": "\n."
+                        }
+                    ]
+                },
+                {
+                    "component": "LetsReflect",
+                    "id": "618151fb0e3a9cdb7db30805",
+                    "properties": {
+                        "title": "Let’s Reflect"
+                    },
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb585c7a7a7e139184",
+                            "content": "After completing this section, I can:"
+                        },
+                        {
+                            "component": "Table",
+                            "id": "618151fb5525e8d9c7ffdb7d",
+                            "properties": {
+                                "type": "Type-2",
+                                "tableTitle": ""
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fb5600ed4f1625ee09",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb30f8256e3ee7574d",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fba30d9fb179bc6c00",
+                                                    "content": ""
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb4b69851f57d13001",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb13281441999ad737",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fb7c697f53d701574d",
+                                                                    "asset_id": "618151fbb2634a1ab173c932",
+                                                                    "properties": {
+                                                                        "path": "emoji1.png",
+                                                                        "width": "35%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb8ce3e39302193ccb",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fba1de778b1e5a3e83",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fbb98c0a2dfd7fe532",
+                                                                    "asset_id": "618151fb631647eaeb89d242",
+                                                                    "properties": {
+                                                                        "path": "emoji2.png",
+                                                                        "width": "35%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb6bc3f0279eb7e77a",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb00848f1ff64782bf",
+                                                    "content": "describe a picture and write sentences using naming words."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fba3c3f3186fc6fd2f",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb6cd6c04713e4bfb1",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbad4abe7e5281e1aa",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb938ae9a6b1c4ec64",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb650c1cd9b8d6fee9",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb9abdb3eb6e492993",
+                                                    "content": "use one and many forms of naming words correctly."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb7839977c3c33a0c0",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb0b3b4f3a9b1ab8e6",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb8fa60c94f66c62ca",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb6caf7d4de0e89414",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fbb11518114cde8f02",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fb2a4561bac3060bde",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Communication Skills"
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb6d107f261572ee20",
+                    "properties": {
+                        "icon": "lets-listen"
+                    },
+                    "content": "Let’s Listen"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb993765135ba4b3b5",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb2b5aeebb51cbad64",
+                            "content": "Listen to this poem about the rain. Answer the questions below."
+                        }
+                    ]
+                },
+                {
+                    "component": "LetsListen",
+                    "id": "618151fbc30c8369a29c649f",
+                    "asset_id": "618151fbafaf3717ad2eb432",
+                    "properties": {
+                        "src": "assets/audios/cbse_english_01_06_a_rainy_day_1.mp3"
+                    },
+                    "content": "Listen to this poem about the rain. Answer the questions below."
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fbcc1fbe53b5d79237",
+                    "properties": {
+                        "type": "1"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb73ced645f6090446",
+                            "content": "Where does the rain fall in the poem? Name two places or things."
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fb7b36c41c8a4eaaa1",
+                            "content": "How do you feel when you listen to the poem? Tell your partner."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbd6167e1aa245cb15",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fbcb6cf5e953790fc3",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Italic",
+                            "id": "618151fb43bba8b247fdce60",
+                            "content": "Do you feel:"
+                        }
+                    ]
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fb7bf1841a3a9d2a9c",
+                    "asset_id": "618151fb9801a9618f03e454",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_18.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb499136cbfa4aa0ca",
+                    "content": "Use the words above or a word of your choice."
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb71691d6644b2c355",
+                    "properties": {
+                        "height": "40"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fb4f70a49853e49460",
+                    "properties": {
+                        "icon": "lets-speak"
+                    },
+                    "content": "Let’s Speak"
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fbd2653660fd00f0d8",
+                    "properties": {
+                        "type": "1"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb09b1b94ac176ee7d",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Strong",
+                                    "id": "618151fb125107412c50ef31",
+                                    "content": "Work in pairs. Talk about your favourite day. List two things you like about it."
+                                },
+                                {
+                                    "component": "Points",
+                                    "id": "618151fbcaf12c5b1496f5ad",
+                                    "properties": {
+                                        "type": "lower-alpha"
+                                    },
+                                    "content": [
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb1d6ac5917b550602",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "Text",
+                                                    "content": "My favourite day is a\n"
+                                                },
+                                                {
+                                                    "component": "Italic",
+                                                    "id": "618151fb52e6540a21da80f7",
+                                                    "content": "sunny/rainy/cloudy/snowy day."
+                                                },
+                                                {
+                                                    "component": "Text",
+                                                    "content": "\n(choose one)"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb6171d10c88adabb2",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "Text",
+                                                    "content": "How does the day make you feel?\n"
+                                                },
+                                                {
+                                                    "component": "Italic",
+                                                    "id": "618151fb934a7859c83850ef",
+                                                    "content": "I feel"
+                                                },
+                                                {
+                                                    "component": "MathMl",
+                                                    "id": "618151fb91fe7cb7200f5135",
+                                                    "properties": {
+                                                        "type": "inline",
+                                                        "fontSize": "22"
+                                                    },
+                                                    "content": "$$\\text{__________}$$"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb76b15884d5db0084",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "Text",
+                                                    "content": "What do you like to eat or drink on that day?\n"
+                                                },
+                                                {
+                                                    "component": "Italic",
+                                                    "id": "618151fb8c3d06166e32a50d",
+                                                    "content": "I like to eat/drink"
+                                                },
+                                                {
+                                                    "component": "MathMl",
+                                                    "id": "618151fb24d7293c94579923",
+                                                    "properties": {
+                                                        "type": "inline",
+                                                        "fontSize": "22"
+                                                    },
+                                                    "content": "$$\\text{__________}$$"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb4284edccacda11a4",
+                    "properties": {
+                        "height": "24"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fbd8021836aae8068b",
+                    "properties": {
+                        "type": "1",
+                        "start": "2"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb7b9db90b478cca56",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Strong",
+                                    "id": "618151fb0e31ffb9812a8493",
+                                    "content": "Which day do you not like? Tell your partner two things about it."
+                                },
+                                {
+                                    "component": "Points",
+                                    "id": "618151fb9ebb234dc4403a88",
+                                    "properties": {
+                                        "type": "lower-alpha"
+                                    },
+                                    "content": [
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fb7d19d27932febd81",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "Text",
+                                                    "content": "I do not like\n"
+                                                },
+                                                {
+                                                    "component": "MathMl",
+                                                    "id": "618151fb2da071472fbce336",
+                                                    "properties": {
+                                                        "type": "inline",
+                                                        "fontSize": "22"
+                                                    },
+                                                    "content": "$$\\text{______}$$"
+                                                },
+                                                {
+                                                    "component": "Text",
+                                                    "content": "\ndays."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "LI",
+                                            "id": "618151fbdc15e1072d450d6d",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "Text",
+                                                    "content": "How does the day make you feel?\n"
+                                                },
+                                                {
+                                                    "component": "Italic",
+                                                    "id": "618151fb08ef14c7593e16a4",
+                                                    "content": "I feel"
+                                                },
+                                                {
+                                                    "component": "MathMl",
+                                                    "id": "618151fbd3f584a2ac232ed3",
+                                                    "properties": {
+                                                        "type": "inline",
+                                                        "fontSize": "22"
+                                                    },
+                                                    "content": "$$\\text{______}$$"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "LetsReflect",
+                    "id": "618151fbbd851bf70bad64c1",
+                    "properties": {
+                        "title": "Let’s Reflect"
+                    },
+                    "content": [
+                        {
+                            "component": "Paragraph",
+                            "id": "618151fb716dad88fd0b8cfd",
+                            "content": "After completing this section, I can:"
+                        },
+                        {
+                            "component": "Table",
+                            "id": "618151fba9cc7068be6375d1",
+                            "properties": {
+                                "type": "Type-2",
+                                "tableTitle": ""
+                            },
+                            "content": [
+                                {
+                                    "component": "TableBody",
+                                    "id": "618151fb2e553a66eeba17d2",
+                                    "properties": {},
+                                    "content": [
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb8ed7249e246ed251",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbe8fec5ff67a3a9c5",
+                                                    "content": ""
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbd5016b6f1523e504",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbe9fe289f4a68d4fd",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fb9f366473130fab4e",
+                                                                    "asset_id": "618151fbd1919eba972ddddf",
+                                                                    "properties": {
+                                                                        "path": "emoji1.png",
+                                                                        "width": "25%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbeb8e59ae8fcd00a6",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbc3704f48cd85b3a7",
+                                                            "properties": {},
+                                                            "content": [
+                                                                {
+                                                                    "component": "EmojiImage",
+                                                                    "id": "618151fb0749912791e248d8",
+                                                                    "asset_id": "618151fbc960062acd96a829",
+                                                                    "properties": {
+                                                                        "path": "emoji2.png",
+                                                                        "width": "25%"
+                                                                    },
+                                                                    "content": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fbab8afe9c300993a0",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb7855f051aa512b74",
+                                                    "content": "describe how a poem makes me feel."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fb72c667d0fa6a8c55",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb2c0c4a2600667775",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fba36e2d10ebe5f778",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb229fc8a6addc8a1e",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "component": "TableRow",
+                                            "id": "618151fb1e5d1657032c89ad",
+                                            "properties": {},
+                                            "content": [
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbc1ce122a28100322",
+                                                    "content": "express what days I like and don’t like."
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fba6d184bdf630b8e2",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fbdf5f597ef8151ea7",
+                                                            "content": "Sure"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "component": "CellValue",
+                                                    "id": "618151fbc3413dddddebe8bd",
+                                                    "properties": {},
+                                                    "content": [
+                                                        {
+                                                            "component": "Center",
+                                                            "id": "618151fb015ad88915c6b4d7",
+                                                            "content": "Unsure"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "component": "Section",
+            "id": "618151fb49f1e22f38d4f582",
+            "content": [
+                {
+                    "component": "SectionTitle",
+                    "id": "618151fb50a5eb58ea4423a1",
+                    "properties": {
+                        "number": "",
+                        "hideIndex": "true"
+                    },
+                    "content": "Let’s Read Aloud"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fba9390c5a237456cf",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbd3044239718f8317",
+                            "content": "Look at the weather chart below."
+                        }
+                    ]
+                },
+                {
+                    "component": "InlineImage",
+                    "id": "618151fbcb2312f02aec433f",
+                    "asset_id": "618151fb145fe0a9cd5f8b13",
+                    "properties": {
+                        "path": "assets/images/eng_cbse_g1_c6_img_19.png",
+                        "title": ""
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb9abbad2ee6515717",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb4948fe1ddd6d3ca4",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fbf0d8263a60e89d42",
+                            "content": "Read the sentences about the weather chart."
+                        }
+                    ]
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fb37b420a92eccfd6c",
+                    "properties": {
+                        "type": "1"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb8452c0cf284883e7",
+                            "content": "It is sunny on Wednesday."
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fb7c8f0407db045c92",
+                            "content": "It is rainy on Tuesday, Thursday, Friday, and Sunday."
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fb5c66a198c78c3ce6",
+                            "content": "It is cloudy on Tuesday and Thursday."
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fb382c2a27e24c987d",
+                            "content": "It is snowy on Monday and Saturday."
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fbcda2130cca65990b",
+                    "properties": {
+                        "height": "20"
+                    },
+                    "content": ""
+                },
+                {
+                    "component": "FeatureHeading",
+                    "id": "618151fba2e2a6340d0c4de3",
+                    "properties": {
+                        "icon": "cross-connect-english"
+                    },
+                    "content": "Cross-Connect"
+                },
+                {
+                    "component": "Paragraph",
+                    "id": "618151fb92a52560098459ed",
+                    "properties": {},
+                    "content": [
+                        {
+                            "component": "Strong",
+                            "id": "618151fb8d2b497358634b55",
+                            "content": "Now make your own weather chart like the one above. Observe the weather where you live for one week. Colour one square every day. At the end of the week, count the number of days for each kind."
+                        }
+                    ]
+                },
+                {
+                    "component": "Points",
+                    "id": "618151fbcdb17461f5f56b0d",
+                    "properties": {
+                        "type": "1"
+                    },
+                    "content": [
+                        {
+                            "component": "LI",
+                            "id": "618151fb9fe8a08a10631d95",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Text",
+                                    "content": "It was sunny on\n\t"
+                                },
+                                {
+                                    "component": "MathMl",
+                                    "id": "618151fb47bfea96581bdb14",
+                                    "properties": {
+                                        "type": "inline",
+                                        "fontSize": "22"
+                                    },
+                                    "content": "$$\\text{__________}$$"
+                                },
+                                {
+                                    "component": "Text",
+                                    "content": "\n\tdays."
+                                }
+                            ]
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fb4d5680b4633929b1",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Text",
+                                    "content": "It was rainy on\n\t"
+                                },
+                                {
+                                    "component": "MathMl",
+                                    "id": "618151fb4115434ffd2a505c",
+                                    "properties": {
+                                        "type": "inline",
+                                        "fontSize": "22"
+                                    },
+                                    "content": "$$\\text{__________}$$"
+                                },
+                                {
+                                    "component": "Text",
+                                    "content": "\n\tdays."
+                                }
+                            ]
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fbfd13f592f4b3ab4c",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Text",
+                                    "content": "It was cloudy on\n\t"
+                                },
+                                {
+                                    "component": "MathMl",
+                                    "id": "618151fb984328bc89f67bf4",
+                                    "properties": {
+                                        "type": "inline",
+                                        "fontSize": "22"
+                                    },
+                                    "content": "$$\\text{__________}$$"
+                                },
+                                {
+                                    "component": "Text",
+                                    "content": "\n\tdays."
+                                }
+                            ]
+                        },
+                        {
+                            "component": "LI",
+                            "id": "618151fb6eec1d4101ac8371",
+                            "properties": {},
+                            "content": [
+                                {
+                                    "component": "Text",
+                                    "content": "It was snowy on\n\t"
+                                },
+                                {
+                                    "component": "MathMl",
+                                    "id": "618151fb102d4dc62f3f4ccf",
+                                    "properties": {
+                                        "type": "inline",
+                                        "fontSize": "22"
+                                    },
+                                    "content": "$$\\text{__________}$$"
+                                },
+                                {
+                                    "component": "Text",
+                                    "content": "\n\tdays."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "component": "Spacer",
+                    "id": "618151fb7a3cff6050d3e3c2",
+                    "properties": {
+                        "height": "60"
+                    },
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "component": "EndOfLessonTest",
+            "id": "618151fb9a3effa050d661bc",
+            "asset_id": "618151fb81d9e2f78e9e42b3",
+            "properties": {
+                "title": "End of Lesson Test",
+                "path": "assets/eoct/index.html"
+            },
+            "content": "Assess yourself"
+        }
+    ]
+}
